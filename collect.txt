@@ -4,3 +4,7 @@ http://www.jianshu.com/users/d1efae5b9216/latest_articles
 
 网盘资料：
 C语言开发-http://pan.baidu.com/share/home?uk=3946125333#category/type=0
+
+
+Centos7系统配置上的变化（二）网络管理基础
+http://www.it165.net/os/html/201409/9414.html
